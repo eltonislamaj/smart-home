@@ -10,4 +10,5 @@ Kjo gje e bn me fleksibel dhe me te pershtatshem aplikacionin pasi nk ka nevoj q
 # Ky shkrim eshte krijuar nga:
 **Mikel Kapllanaj
   Ina Pelari
-  Elton Islamaj**
+  Elton Islamaj
+  Anxhela korfuzi**
