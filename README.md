@@ -5,7 +5,7 @@ Antaret e grupi : **Mikel Kapllanajn (Kryetar Grupi).**
                            Ina Pelari
                            Elton Islamaj
                            Anxhela Korfuzi
-                           Anxhela Shkurti
+                           Xhuljana Shkurti
 
 
 
