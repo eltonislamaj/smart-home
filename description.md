@@ -11,4 +11,5 @@ Kjo gje e bn me fleksibel dhe me te pershtatshem aplikacionin pasi nk ka nevoj q
 **Mikel Kapllanaj
   Ina Pelari
   Elton Islamaj
-  Anxhela korfuzi**
+  Anxhela korfuzi
+  Xhuljana Shkurti**
