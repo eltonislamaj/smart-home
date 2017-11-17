@@ -12,4 +12,4 @@ Antaret e grupi : **Mikel Kapllanajn (Kryetar Grupi).**
 
 Tema : **Smart-home** .
 
-Informacion rreth temes : aplikacionet  **android** ,  do fokusohemi ne ndertimin e aplikacioneve te dobishem ne jeten e perditshe , prsh **smart home** i cili eshte nje _aplikacion_ qe te lejon te **komunikosh** me te gjitha paisjet **elektroshtepiake** nga *celulari apo tableti*.
+Informacion rreth temes : aplikacionet  **android** ,  do fokusohemi ne ndertimin e aplikacioneve te dobishem ne jeten e perditshe , per shembull **smart home**  eshte nje _aplikacion_ qe te lejon te **komunikosh** me te gjitha paisjet **elektroshtepiake** nga *celulari apo tableti*.
