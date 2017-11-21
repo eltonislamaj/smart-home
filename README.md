@@ -1,6 +1,6 @@
 # smart-home
 
-Antaret e grupi : **Mikel Kapllanajn (Kryetar Grupi).**
+Antaret e grupi : **Mikel Kapllanaj (Kryetar Grupi).**
 
                            Ina Pelari
                            Elton Islamaj
