@@ -18,3 +18,10 @@ Por te gjith e dime qe kur celulari perdoret shum mbingarkohet dhe nga mbingarke
 jon ka kujtes nderfaqa do te jet atje ku perforuesi e la por e gatshme per te dhen komanda tani .
 Pasi perdoruesi kthehet ne shtepi perseri paisjet do lidhen automatikisht per tu perdorur .
 Ky eshte nje rast per nje klient te zakonshem por situatat jan nga me te ndryshmet.
+Skenari-03.md
+Ky aplikacion perdoret edhe nga te moshuarit rasti ne shqyrtim eshte i nje gruaje te moshuar 
+e cila eshte e paralizuar dhe nuk mund te ngrihet nga karrikja e saj , por sic e dim te gjith
+familjaret e saj duhet te shkojn ne pune dhe keshtu ajo ngelet vetem ne shtepi dhe shumica e elektroshtepiakeve
+jan ne lartesira te pa arritshme nga ajo ose dhe telekomandat nuk mund ti gjej keshtu qe me aplikacionin ton ajo
+do e kete me te lehte pasi mund ti kontrollon te gjitha paisjet pa problem nga celulari i saj duke mos u munduar per 
+te gjetur telekomandat ose te arrij paisjet .
