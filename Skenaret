@@ -1,16 +1,20 @@
 Perdoruesit dhe palet e  interesuara jane : Te gjithe pesonat mbi 16vjece te cilet perdorin nje smartphone .
 Perdoruesit e perdorin aplikacionin per komandimin  e elektroshtepiakeve ,keto mund te jen ne shtepi ose ne ambjente pune
-Gjithashtu eahte e perdorshme kur je ne nje udhetim ,ne bare ,restorante ose hotele sepse zakonisht nuk kemi nje telekomand.
+Gjithashtu eshte e perdorshme kur je ne nje udhetim ,ne bare ,restorante ose hotele sepse zakonisht nuk kemi nje telekomand.
 Bashkveprimi i perdoruesit me programin:
+
+Skenar-01.md
 Perdoruesi duhet te shkarkoj programin nga apstore apo playstore me pas aplikacioni do instalohet automatikisht .
 Pasi instalohet perdoruesi klikon mbi aplikacion dhe e hap ate , ne hyrje ka nje guid perdorimi te cilen mund ta lexoj ose ta shmang duke i ber next.
 Duke ber next perdoruesi arrin ne menun kryesore te programit ku duhet te bej add paisjeve dhe ambientit ku eshte , pasi perdoruesi zgjedh ambientin paisjen dhe modelin e saj nga listst qe ne i kemi shfaqur 
 I jep Ok dhe ne kte menyr krijohet lidhja me paisjen.
-Pasi krijohet lidhja mund te japim komanda paisjes , ne nderfaqen ton do jet nje komand e pasur me opsjone por ne varesi te paisjes opsionet qe nuk nevojiten do te behen te zbehta ne ngjyr dhe nuk do mund te aksesohen (shtypen)
+Pasi krijohet lidhja mund te japim komanda paisjes , ne nderfaqen ton do jet nje dritare  e pasur me opsjone por ne varesi te paisjes opsionet qe nuk nevojiten do te behen te zbehta ne ngjyr dhe nuk do mund te aksesohen (shtypen)
 Ndersa opsionet qe do perforen do u perforcohet ngjyra ne blu .
 Nje shembull perdorimi per aplikacioni eshte ky :
-Nje perdorues zgjohet ne mengjes dhe i duhet te ndez tv dhe kondicionerin , merr celularin e tij qe zakonisht eshte ne komodin dhe i ndez te dyja elektroshtepiaket me pas pegatite x te vajtur ne pune dhe perseri i fik elektroshtepiaket nga smartphone-i tij 
-Kur shkon ne zyr perseri duhet te ndez kondicionerin dhe te vazhdoj me punen, por te gjith e dime qe kur celulari perdoret shum mbingarkohet dhe nga mbingarkesa fillon qe nuk u pergjigjet komandave ne kte rast i bejm ristart smartphone-it dhe duke qen se aplikacioni
+Skenari-02.md 
+Nje perdorues zgjohet ne mengjes dhe i duhet te ndez televizorin dhe kondicionerin , merr celularin e tij qe zakonisht eshte ne komodin dhe i ndez te dyja elektroshtepiaket me pas pegatite per te vajtur ne pune dhe perseri i fik elektroshtepiaket nga smartphone-i tij 
+Kur shkon ne zyr perseri duhet te ndez kondicionerin dhe te vazhdoj me punen.
+Por te gjith e dime qe kur celulari perdoret shum mbingarkohet dhe nga mbingarkesa fillon qe nuk u pergjigjet komandave ne kte rast i bejm ristart smartphone-it dhe duke qen se aplikacioni
 jon ka kujtes nderfaqa do te jet atje ku perforuesi e la por e gatshme per te dhen komanda tani .
-Pasi perdoruesi kthehet ne shtepi perseri paisjet do lidhen automatikisht per ty perdorur .
-Ky eshte nje rast persorimo per nje klient te zakonshem por situatat jan nga me te ndryshmet.
+Pasi perdoruesi kthehet ne shtepi perseri paisjet do lidhen automatikisht per tu perdorur .
+Ky eshte nje rast per nje klient te zakonshem por situatat jan nga me te ndryshmet.
